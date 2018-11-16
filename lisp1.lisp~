@@ -1,0 +1,8 @@
+(defun addtwo (a b)
+  (+ a b))
+(addtwo 33 3)
+
+
+
+
+
